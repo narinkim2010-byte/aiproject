@@ -1,3 +1,4 @@
-streamlit
-pandas
-plotly
+
+ ├── app.py
+ ├── Iris.csv
+ └── requirements.txt
